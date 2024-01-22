@@ -1,0 +1,23 @@
+[
+  { "id": "1", "nama": "Nike Air Max 90", "price": 1990000, "qty": 99 },
+  { "id": "2", "nama": "Adidas Superstart", "price": 1990000, "qty": 33 },
+  {
+    "id": "3",
+    "nama": "Nike Air Jordan Low Taxi",
+    "price": 1990000,
+    "qty": 66
+  },
+  { "id": "4", "nama": "Nike Air Jordan Travis", "price": 19900000, "qty": 3 },
+  {
+    "id": "edce9e5b-bf2b-4d30-b62d-f37774c8365a",
+    "nama": "coba update",
+    "price": 2000000,
+    "qty": 99
+  },
+  {
+    "id": "430f0639-d176-4f2c-90e1-44771b512232",
+    "nama": "cobaaa",
+    "price": 900000,
+    "qty": 99
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+      "id": "57686748-3df2-499b-a728-16d348249719",
+    "product_id": "3",
+    "qty": 20,
+    "amount": 39800000,
+    "product_detail": {
+      "id": "3",
+      "nama": "Nike Air Jordan Low Taxi",
+      "price": 1990000,
+      "qty": 66
+    }
+  }
+]
